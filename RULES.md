@@ -1,10 +1,4 @@
-* Si vas a compartir mucha cantidad de código puedes usar cualquiera de estos servicios
-  * [Carbon](https://carbon.now.sh/)
-  * [Codeshare](https://codeshare.io/)
-  * [Pastebin](https://pastebin.com/)
-  * [Lesma](https://lesma.eu/)
-  * [PHPize](https://phpize.online/)
-  * [3V4L](https://3v4l.org/)
+* Si vas a compartir mucha cantidad de código puedes escribir #codeshare y te saldrá un listado
 * Si es poca cantidad de código lo puedes hacer directamente [en telegram](https://www.wikihow.com/Send-Code-on-Telegram).
 * No preguntes si alguien sabe de algo, simplemente expón tu duda y espera a ver si alguien te puede ayudar.
 * La temática del grupo es sobre todo **PHP** aunque tocamos también otros lenguajes como pueden ser:  **HTML**, **CSS**, **JavaScript** o **MySQL**. Los demás lenguajes quedarán fuera del grupo, aún que siempre se podrá preguntar por canales específicos.
