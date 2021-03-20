@@ -30,4 +30,12 @@ El objetivo del grupo es darnos soporte mutuo entre desarrolladores web que trab
 * https://phptherightway.com [(Español)](http://phpdevenezuela.github.io/php-the-right-way) Conjunto de buenas practicas para desarrollar con php
 * https://github.com/jupeter/clean-code-php [(Español)](https://github.com/fikoborquez/clean-code-php) Principios de ingeniería de software descritos por Robert C. Martin en su libro Clean Code.
 * https://gitexplorer.com Explicación de los diferentes comandos git
-* https://devdocs.io Documentacion de múltiples apis 
+* https://devdocs.io Documentacion de múltiples apis
+
+# Herramientas para comaprtir código
+* [Carbon](https://carbon.now.sh/)
+* [Codeshare](https://codeshare.io/)
+* [Pastebin](https://pastebin.com/)
+* [Lesma](https://lesma.eu/)
+* [PHPize](https://phpize.online/)
+* [3V4L](https://3v4l.org/)
