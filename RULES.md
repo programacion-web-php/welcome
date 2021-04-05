@@ -1,3 +1,4 @@
+* No está permitido subir imagenes, fotografías o capturas de pantalla. Si por algún motivo es necesario y no se puede hacer compartiendo código entonces se podrán usar servicios como [imgmur](https://imgur.com/) para casos excepcionales
 * Si vas a compartir mucha cantidad de código puedes escribir #codeshare y te saldrá un listado
 * Si es poca cantidad de código lo puedes hacer directamente [en telegram](https://www.wikihow.com/Send-Code-on-Telegram).
 * No preguntes si alguien sabe de algo, simplemente expón tu duda y espera a ver si alguien te puede ayudar.
